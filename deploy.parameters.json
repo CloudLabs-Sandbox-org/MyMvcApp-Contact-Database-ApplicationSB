@@ -10,18 +10,6 @@
     },
     "webAppName": {
       "value": "MyMvcApp"
-    },
-    "sqlServerName": {
-      "value": "mySqlServer"
-    },
-    "sqlDatabaseName": {
-      "value": "MyMvcAppDB"
-    },
-    "sqlAdminUsername": {
-      "value": "sqladmin"
-    },
-    "sqlAdminPassword": {
-      "value": "YourSecurePassword123!"
     }
   }
 }
